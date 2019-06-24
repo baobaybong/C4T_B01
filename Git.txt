@@ -1,0 +1,6 @@
+echo "# C4T_B01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nbmnb69/C4T_B01.git
+git push -u origin master
