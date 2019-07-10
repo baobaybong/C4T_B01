@@ -1,0 +1,15 @@
+from turtle import *
+shape("turtle")
+color("green")
+tracer(2)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+# fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(30)
+for i in range(1,360):
+    fd(100);lt(90);fd(100);lt(90);fd(100);lt(90);fd(100);lt(89)
+mainloop()
